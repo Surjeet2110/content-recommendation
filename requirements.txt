@@ -1,0 +1,9 @@
+requests
+pandas
+scikit-learn
+tensorflow
+aif360
+shap
+redis
+kafka-python
+hyperopt
