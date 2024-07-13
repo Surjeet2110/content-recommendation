@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 content_id,category,length
 101,technology,5
 102,health,3
 103,sports,7
+=======
+content_id,category,length
+101,technology,5
+102,health,3
+103,sports,7
+>>>>>>> 21efe1b304df64857a2f6eefed48b3c39ac77c1c

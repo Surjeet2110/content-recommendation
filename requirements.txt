@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 requests
 pandas
 scikit-learn
@@ -6,4 +7,14 @@ aif360
 shap
 redis
 kafka-python
+=======
+requests
+pandas
+scikit-learn
+tensorflow
+aif360
+shap
+redis
+kafka-python
+>>>>>>> 21efe1b304df64857a2f6eefed48b3c39ac77c1c
 hyperopt

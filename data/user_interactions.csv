@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 user_id,content_id,interaction_type
 1,101,like
 2,102,view
 1,103,comment
 3,101,share
+=======
+user_id,content_id,interaction_type
+1,101,like
+2,102,view
+1,103,comment
+3,101,share
+>>>>>>> 21efe1b304df64857a2f6eefed48b3c39ac77c1c
